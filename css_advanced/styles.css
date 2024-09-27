@@ -41,7 +41,7 @@ body{
     padding-left: 40rem;
 }
 
-.navbar-container li a{
+.navbar-menu a{
     display: block; 
     color: white; 
     text-align: right; 
@@ -51,7 +51,7 @@ body{
     font-weight: bold;
 }
 
-.navbar-container li a:hover{
+.navbar-menu a:hover{
     text-decoration: underline;
     opacity: .3;
     color: rgb(236, 220, 241);
@@ -65,7 +65,7 @@ body{
     justify-content: center;
     text-align: center;
     color: white;
-    background-image: url(public/CSS\ Advanced/object.png);
+    background-image: url(public/CSSAdvanced/object.png);
 }
 
 .sect::before{
